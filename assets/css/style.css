@@ -1,0 +1,56 @@
+body {
+    background: url("../images/congruent_pentagon.png");
+}
+ 
+header {
+    text-align: center;
+    font-family: 'Righteous', cursive;
+    text-shadow: 2px 2px 4px #888888;
+    font-size: 55px;
+}
+
+.panel-body {
+    background-color: white;
+}
+
+
+.well {
+    text-align: center;
+    height: 123px;
+    background-color: white;
+}
+
+.scorecard {
+    padding-top: 10px;
+    padding-left: 20px;
+}
+
+.number {
+    font-size: 50px;
+}
+
+p {
+    text-align: left;
+}
+
+.buttons {
+    padding-left: 130px;
+    margin-top: 10px;
+}
+
+img {
+    padding-bottom: 15px;
+}
+
+footer {
+    color: #242424;
+    text-align: center;
+}
+
+a,
+a:hover,
+a:active,
+a:visited {
+    color: #242424;
+}
+
